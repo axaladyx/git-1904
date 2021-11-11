@@ -237,7 +237,7 @@
 //   console.log("x : bukan NaN");
 // }
 
-// i = 5
+// i = 5;
 // for (var i = 1; i < 5; i++) {
 //   i++;
 //   i + 1;
