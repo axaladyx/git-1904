@@ -27,3 +27,5 @@
 - git reset (commit id) (Menghapus commit tanpa menghapus code)
 
 - git reset (commit id) --hard (Menghapus commit berikut dengan code)
+
+- git remote add (variable) (link repo di github) (Menghubungkan project git di local repo di github)
